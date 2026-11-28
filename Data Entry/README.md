@@ -1,24 +1,24 @@
-Business Tracker Project
+# Business Tracker Project
 
-Project Overview
+## Project Overview
 
 This project showcases an Excel-based Business Tracker developed to organize and monitor business information.
 
-Tools Used
+## Tools Used
 
 Microsoft Excel
 
-Project Format
+## Project Format
 
 Excel Workbook (.xlsx)
 
-Skills Demonstrated
+## Skills Demonstrated
 
-Spreadsheet organization
-Excel workbook management
-Business data tracking
-Data presentation
+- Spreadsheet organization
+- Excel workbook management
+- Business data tracking
+- Data presentation
 
-Project Purpose
+## Project Purpose
 
 To demonstrate my ability to organize business information using Microsoft Excel.
