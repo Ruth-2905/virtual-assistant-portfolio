@@ -1,9 +1,9 @@
-Bloom and Co – Trello Project Management
+# Bloom and Co – Trello Project Management
 
-Project Overview
+## Project Overview
 This project demonstrates how I used Trello to organise and manage a one-month content marketing plan for Bloom and Co, a fictional e-commerce business that sells handmade candles.
 
-Project Structure
+## Project Structure
 The Trello board contains six lists:
 - Ideas
 - To Do This Week
@@ -12,7 +12,7 @@ The Trello board contains six lists:
 - Scheduled
 - Published
 
-Tasks and Features
+## Tasks and Features
 - Content brainstorming and planning
 - Task organisation and prioritisation
 - Colour-coded labels
@@ -20,10 +20,10 @@ Tasks and Features
 - Checklists for tracking progress
 - Content review and scheduling
 
-Tools Used
+## Tools Used
 - Trello
 
-Skills Demonstrated
+## Skills Demonstrated
 - Project management
 - Task coordination
 - Content planning
@@ -31,8 +31,8 @@ Skills Demonstrated
 - Organisation and workflow management
 - Attention to detail
 
-Project Purpose
+## Project Purpose
 To demonstrate my ability to organise tasks, manage workflows, track project progress, and support business operations using Trello.
 
-Project Evidence
+## Project Evidence
 Screenshots of the Trello board are included in the Screenshots folder.
